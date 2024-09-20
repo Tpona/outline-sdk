@@ -21,7 +21,7 @@ import (
 
 	"github.com/Jigsaw-Code/outline-sdk/network"
 	"github.com/Jigsaw-Code/outline-sdk/transport"
-	lwip "github.com/eycorsican/go-tun2socks/core"
+	lwip "github.com/eycorsican/go-tun2socks/tree/master/core"
 )
 
 const packetMTU = 1500
